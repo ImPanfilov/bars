@@ -4,3 +4,5 @@
 (True если дата последнего обновления договора меньше текущей даты на 60 дней).
 ## 
 Spring, JavaFX, Java8
+##
+![bars](https://user-images.githubusercontent.com/103848229/178328509-62ed73c7-cc74-4a79-93d3-277b3787f83b.jpg)
